@@ -9,7 +9,7 @@ This project implements an end-to-end NLP pipeline to classify whether two quest
 ## Project Structure
 
 ```
-quora_question_pairs/
+.
 ├── 01_data_EDA.ipynb          # Exploratory Data Analysis
 ├── 02_preprocessing.ipynb     # Data preprocessing & feature engineering
 ├── 03_models.ipynb            # Traditional ML models (LR, RF, XGB, LGBM)

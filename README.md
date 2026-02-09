@@ -104,6 +104,7 @@ Due to GitHub file size limits, the fine-tuned BERT model is loaded to [hugging 
 ## Deployed API (FastAPI + Docker)
 
 **Demo:** [quora_deployment](https://huggingface.co/spaces/zvonovska/quora-duplicated-questions-d)
+
 The demo provides a simple web interface where users can enter two questions and receive a predicted probability of duplication in real time.
 
 
